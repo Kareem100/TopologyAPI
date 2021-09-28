@@ -1,0 +1,32 @@
+{
+  "id": "tpg_2",
+  "components": [
+    {
+      "type": "resistor 2",
+      "id": "res2",
+      "resistance": {
+        "default": 100,
+        "min": 10,
+        "max": 1000
+      },
+      "netlist": {
+        "t1": "vdd2",
+        "t2": "n12"
+      }
+    },
+    {
+      "type": "nmos2",
+      "id": "m12",
+      "m(l)": {
+        "default": 1.5,
+        "min": 1,
+        "max": 2
+      },
+      "netlist": {
+        "drain": "n12",
+        "gate": "vin2",
+        "source": "vss2"
+      }
+    }
+  ]
+}
