@@ -22,15 +22,12 @@ Providing the functionality to access, manage and store device topologies.
 
 ## Working Shots
 
-![](RuntimeScreenshots/1.%20InputGuide.png)
-![](RuntimeScreenshots/2.%20DeletingBeforeReading.png)
-![](RuntimeScreenshots/3.%20IncorrectFilePathForReading.png)
-![](RuntimeScreenshots/4.%20CorrectFilePathForReading.png)
-![](RuntimeScreenshots/5.%20DuplicateFilePathForReading.png)
-![](RuntimeScreenshots/6.%20QueryTopologies.png)
-![](RuntimeScreenshots/7.%20ValidWriteProcess.png)
-![](RuntimeScreenshots/8.%20WrongTopologyID.png)
-![](RuntimeScreenshots/9.%20QueryingAllComponents.png)
-![](RuntimeScreenshots/10.%20QueryingWithWrongNodeID.png)
-![](RuntimeScreenshots/11.%20QueryingWithCorrectNodeID.png)
-![](RuntimeScreenshots/12.%20DeletingTopologies.png)
+| InputGuide | DeletingBeforeReading | IncorrectFilePathForReading |
+| :--------: | :-------------------: | :-------------------------: |
+![](RuntimeScreenshots/1.%20InputGuide.png) | ![](RuntimeScreenshots/2.%20DeletingBeforeReading.png) | ![](RuntimeScreenshots/3.%20IncorrectFilePathForReading.png) |
+| CorrectFilePathForReading | DuplicateFilePathForReading | QueryTopologies |
+![](RuntimeScreenshots/4.%20CorrectFilePathForReading.png) | ![](RuntimeScreenshots/5.%20DuplicateFilePathForReading.png) | ![](RuntimeScreenshots/6.%20QueryTopologies.png) |
+| ValidWriteProcess | WrongTopologyID | QueryingAllComponents |
+![](RuntimeScreenshots/7.%20ValidWriteProcess.png) | ![](RuntimeScreenshots/8.%20WrongTopologyID.png) | ![](RuntimeScreenshots/9.%20QueryingAllComponents.png) |
+| QueryingWithWrongNodeID | QueryingWithCorrectNodeID | DeletingTopologies |
+![](RuntimeScreenshots/10.%20QueryingWithWrongNodeID.png) | ![](RuntimeScreenshots/11.%20QueryingWithCorrectNodeID.png) | ![](RuntimeScreenshots/12.%20DeletingTopologies.png) |
