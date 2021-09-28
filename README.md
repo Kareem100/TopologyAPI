@@ -9,7 +9,7 @@ Providing the functionality to access, manage and store device topologies.
     3. Executing operations on topologies.
 - Automated Testing is used to test the work of the existing functionalities.
 - Strong Handling of Expected Errors and Different Scenarios on Dialog with the User.
-- Take a look on The Working Tree [javadoc Documentaion](javadoc/index.html).
+- Take a look on The Working Tree [javadoc Documentaion](javadoc).
 
 ## Used
 - Java console application
