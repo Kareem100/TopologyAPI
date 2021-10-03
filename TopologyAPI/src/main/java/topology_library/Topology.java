@@ -2,13 +2,11 @@ package topology_library;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.JsonNode;
-import jdk.jfr.Name;
 
 /**
  * <span class="strong">Topology Components!</span>
  * The Topology class implements a set of electronic components
  * that are connected together inside one topology.
- *
  *
  * @author  Kareem Sherif
  * @version 1.0

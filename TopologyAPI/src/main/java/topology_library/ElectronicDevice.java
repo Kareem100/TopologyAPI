@@ -22,13 +22,13 @@ import java.util.List;
 public class ElectronicDevice {
 
     // Jackson ObjectMapper for reading a json file
-    private ObjectMapper objectMapper;
+    private final ObjectMapper objectMapper;
 
     // List of the stored topologies during runtime
-    private List<Topology> topologiesInMemory;
+    private final List<Topology> topologiesInMemory;
 
     // List of files loaded during runtime
-    private List<String> filePaths;
+    private final List<String> filePaths;
 
     /**
      * Constructor for making instantiations for
